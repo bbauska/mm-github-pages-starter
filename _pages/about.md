@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+First paragraph describing Brian Bauska.  I'm working on writing and publishing a 100+ web sites.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+About me: Brian Bauska 341 S Madison  Monroe, WA 98272
+
+I work for the USPS in Monroe as a Rural Carrier.  Currently subbing for Rural Route #9 Kendra's route.  I'd like to add the capabilities of programming the route with special instructions and/or photos.  For example, if you needed to know a combination or if an Arrow key is required to access the mailbox. 
+
+Many rural route patrons have special requirements.  This site I'm working on will address these requirements, with both text & images.
