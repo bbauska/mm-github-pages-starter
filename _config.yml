@@ -81,10 +81,10 @@ author:
       url: "https://instagram.com/"
     - label: "Blockchain"
       icon: "fab fa-fw fa-bitcoin"
-      url: "https://cs1981x.bauska.net/"
+      url: "https://cs1981x,bausja,org/"
     - label: "Hyoerledger"
       icon: "fab fa-fw fa-github-alt"
-      url: "https://cs1982x.bauska.net/"
+      url: "https://cs1982x.bauska.org/"
 
 footer:
   links:
