@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-First paragraph describing Brian Bauska.  I'm working on writing and publishing a 100+ web sites.
+First paragraph describing Brian Bauska.  I'm working on writing and publishing over 100+ web sites. All currently on github.io & .com.
 
 About me: Brian Bauska 341 S Madison  Monroe, WA 98272
 
