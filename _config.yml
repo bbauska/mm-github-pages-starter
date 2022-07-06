@@ -13,14 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: gitagain
+email: brianbauska@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  In the beginning, many things became one.  Then google stole all 
+  that is holy and made billions upon billions doing it.  Next, 
+  Amazon and Facebook came along and showed Google what greed really
+  looks like.
+  How to manipulate and election and con your political party.
+  You can edit this line in _config.yml. It will appear in your 
+  document head meta (for Google search results) and in your feed.xml 
+  site description.
+twitter_username: bbauska
+github_username: bbauska
 minimal_mistakes_skin: default
 search: true
 
@@ -29,7 +34,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 7 # amount of posts to show.
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -58,9 +63,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Brian Bauska"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "As of July 6th 2022 my bio is open. Tomorrow I turn 62."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -74,6 +79,12 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Blockchain"
+      icon: "fab fa-fw fa-bitcoin"
+      url: "https://cs1981x,bausja,org/"
+    - label: "Hyoerledger"
+      icon: "fab fa-fw fa-github-alt"
+      url: "https://cs1982x.bauska.org/"
 
 footer:
   links:
